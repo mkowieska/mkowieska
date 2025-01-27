@@ -1,6 +1,5 @@
 👋 Hi! I’m Martyna
-- 💜 I’m currently a fifth-semester Computer Science student from Szczecin.
-- 🧩 ZUT
+- 💜 I’m a Computer Science student from Szczecin.
 <br/>
 <a href="https://github.com/mkowieska">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkowieska&theme=react&show_icons=true" />
